@@ -1,0 +1,11 @@
+---
+name: GAMS Studio
+category: Interactive Apps
+subcategory: GUIs
+role: batch_connect
+description: |
+  This app will launch a [GAMS Studio] GUI on the [Owens cluster]. You will be able
+  to interact with the GAMS Studio through a VNC session.
+
+  [GAMS Studio]: https://www.gams.com/latest/docs/T_STUDIO.html
+  [Owens cluster]: https://www.osc.edu/resources/technical_support/supercomputers/owens
