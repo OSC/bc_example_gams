@@ -12,7 +12,7 @@ This Batch Connect app requires the following software be installed on the
 **compute nodes** that the batch job is intended to run on (**NOT** the
 OnDemand node):
 
-- [GAMS Studio] ???
+- [GAMS Studio] version?
 - [Xfce Desktop] 4+
 
 For VNC server support:
